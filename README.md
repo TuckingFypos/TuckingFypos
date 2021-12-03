@@ -1,5 +1,4 @@
-<a href="https://steamprofile.com/sig/76561197974005260/"><img src="https://badges.steamprofile.com/profile/default/steam/76561197974005260.png" alt="Steam Profile badge for TuckingFypos: Get your our own Steam Signature at SteamProfile.com" title="Steam Profile badge for TuckingFypos: Get your our own Steam Signature at SteamProfile.com"/></a>\
-![](https://komarev.com/ghpvc/?username=TuckingFypos&style=plastic&label=PROFILE+VIEWS&color=blueviolet)
+<a href="https://www.steamidfinder.com/lookup/76561197974005260/"><img src="https://www.steamidfinder.com/signature/76561197974005260.png" alt="TuckingFypos Steam Signature - SteamId for TuckingFypos"/></a>
 
 Codemonkey, Cloud Guru,
 Guardian of Earth's Last City.
